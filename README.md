@@ -1,6 +1,6 @@
 # GenericThreading
 
-C# Generic Class for easily setting up multithreading in Unity Engine.
+C# Generic Class for easily setting up multithreading in Unity Engine. Can be easily used also under vanilla C# just by replacting UnityAction by Action.
 
 # How to Use
 
